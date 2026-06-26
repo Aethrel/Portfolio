@@ -41,7 +41,6 @@
   <h2>Réalisations</h2>
   <ul>
     <li>+30% de croissance d’une communauté en 6 mois</li>
-    <li>Bot WhatsApp doublant l’engagement</li>
     <li>Contenus multilingues (FR/EN) pour audience mondiale</li>
     <li>Modération de communautés de +10 000 membres</li>
   </ul>
@@ -53,7 +52,6 @@
     <li>Outils : Discord, Telegram, Twitter/X, Notion, Trello</li>
     <li>Web3 : DAO, DeFi, NFT, smart contracts (bases)</li>
     <li>Automatisation : WhatsApp bots, intégrations API</li>
-    <li>Design : Canva, Photoshop</li>
   </ul>
 </div>
 
@@ -68,9 +66,8 @@
 
 <div class="section contact">
   <h2>Contact</h2>
-  <p>Email : <a href="mailto:kassime.amdane@example.com">kassime.amdane@example.com</a></p>
-  <p>LinkedIn : <a href="https://linkedin.com/in/kassime-amdane">linkedin.com/in/kassime-amdane</a></p>
-  <p>TikTok/YouTube : Tutoriels WhatsApp bots</p>
+  <p>Email : <a href="mailto:jottersmik@gmail.com">jottersmik@gmail.com</a></p>
+  <p>LinkedIn : <a href="https://www.linkedin.com/in/mohamed-amdane-kassime-073023343?originalSubdomain=tg">linkedin.com/in/mohamed-amdane-kassime-073023343?originalSubdomain=tg</a></p>
   <p>GitHub : Projets d’automatisation</p>
 </div>
 
